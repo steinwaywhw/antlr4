@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.antlr</groupId>
-  <artifactId>antlr4-annotations</artifactId>
+  <artifactId>antlr4-runtime</artifactId>
   <versioning>
     <versions>
       <version>4.4-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20140812200432</lastUpdated>
+    <lastUpdated>20140812200454</lastUpdated>
   </versioning>
 </metadata>
